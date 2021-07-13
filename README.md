@@ -1,2 +1,2 @@
-# ajs-oop2
-[![Build status](https://ci.appveyor.com/api/projects/status/s858tu3j0c4d015k?svg=true)](https://ci.appveyor.com/project/kassiopea-coder/ajs-oop2)
+# ajs-arraybuffer-1
+[![Build status](https://ci.appveyor.com/api/projects/status/9p3kto8xco41n90u?svg=true)](https://ci.appveyor.com/project/kassiopea-coder/ajs-arraybuffer-1)
